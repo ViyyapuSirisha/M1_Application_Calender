@@ -8,3 +8,28 @@ Calendars play an important role in our daily work to help us stay on task as we
 ![Refer to this link](https://thumbs.dreamstime.com/z/time-calendar-background-abstract-image-pages-dates-116683190.jpg)
 alt-text!
 The schedule determines when work elements are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
+## Defining Our System
+
+## SWOT ANALYSIS
+
+## 4W's and 1'H
+Who:
+
+
+What:
+
+
+When:
+
+
+Where:
+
+
+How:
+
+## Detail requirements
+High Level Requirements:
+--- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+
+Low level Requirements:
+--- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
