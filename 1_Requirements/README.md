@@ -3,7 +3,7 @@
 A "CALENDAR" is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar is also a physical record of such a system. A calendar is to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 ## RESEARCH :
-[Refer to this link](https://www.projectplan365.com/training/lesson-4-project-calendar/)
+[Refer to this link](https://cdn.w600.comps.canstockphoto.com/calendar-planning-concept-stock-photos_csp15549334.jpg)
 ## COST AND FEATURES AND TIMELINE :
 ![Refer to this link](https://thumbs.dreamstime.com/z/business-executive-planning-digital-calendar-business-executive-planning-schedule-digital-calendar-his-laptop-150711056.jpg)
 ### 1. cost
