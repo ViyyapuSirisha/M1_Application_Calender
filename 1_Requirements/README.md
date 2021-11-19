@@ -7,7 +7,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 [Refer to this link](https://www.projectplan365.com/training/lesson-4-project-calendar/)
 
 ## COST AND FEATURES AND TIMELINE :
-![image](https://cdn.w600.comps.canstockphoto.com/calendar-planning-concept-stock-photos_csp15549334.jpg)
+![image](https://d3uigcfkiiww0g.cloudfront.net/wordpress/blog/pics-en/uploads/99-day-study-schedule-usmle-step-1.jpg)
 ### 1. cost
 - The schedule determines when work elements are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
 ### 2. Feature
@@ -21,7 +21,35 @@ Calendars play an important role in our daily work to help us stay on task as we
 * A Calender is a group of interacting or interrelated elements that act according to a set of rules to form a unified whole. The Gregorian calendar today serves as an international standard for civil use.Although a variety of other calendars are in use today, they are restricted to particular religions or cultures.
 
 ## SWOT ANALYSIS :
-![image](https://www.slideteam.net/media/catalog/product/cache/960x720/s/w/swot_analysis_l1866_ppt_powerpoint_presentation_file_layout_slide01.jpg)
+![image](https://pestleanalysis.com/wp-content/uploads/2014/01/swot-template.jpg)
+ STRENGTHS   : 
+ 
+    * It keeps us accountable. Scheduling my most recent doctor's appointment reminded me of how valuable appointments are. ...
+    * It keeps us realistic. When planning out tasks and activities on the calendar, be realistic. 
+    * It helps us prioritize.
+    * It keeps us on track.
+    * It sets boundaries.
+ 
+ WEAKNESS    :
+ 
+    * Rigidity.
+    * Misdirected Planning.
+    * Time consuming.
+    * Probability in planning.
+    * False sense of security.
+    * Expensive.
+ 
+ OPP0RTUNITY :
+ 
+    * A calendar of funding and research opportunities, internships, calls for papers, fellowships, prizes, and job postings that may be of interest to our students, faculty, and alums.
+ 
+ THREATS     :
+ 
+    * Data corruption is possible, altering or even deleing events.
+    * Too many options can make simple event scheduling complicated.
+    * Need physical access to your computer or PDA/smartphone to see schedule.
+    * On PDAs: batteries can fail, leaving you calendar-less.
+    * Dependent on technology.
 
 ## 4W's and 1'H :
 
