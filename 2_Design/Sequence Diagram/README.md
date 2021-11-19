@@ -1,1 +1,2 @@
-
+# SEQUENCE DIAGRAM
+* 
