@@ -30,7 +30,7 @@ Calendars play an important role in our daily work to help us stay on task as we
     * It keeps us on track.
     * It sets boundaries.
  
- WEAKNESS    :
+ WEAKNESSESS    :
  
     * Rigidity.
     * Misdirected Planning.
@@ -39,7 +39,7 @@ Calendars play an important role in our daily work to help us stay on task as we
     * False sense of security.
     * Expensive.
  
- OPP0RTUNITY :
+ OPP0RTUNITIES :
  
     * A calendar of funding and research opportunities, internships, calls for papers, fellowships, prizes, and job postings that may be of interest to our students, faculty, and alums.
  
@@ -71,7 +71,9 @@ How :
 ## Detail requirements :
 
 High Level Requirements:
+
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
 
 Low level Requirements:
+
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
