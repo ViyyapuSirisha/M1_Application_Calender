@@ -1,11 +1,11 @@
 # Implementation
 
 ## Implementation Structure
-Folder        | description
+Folder        | Description
 --------------| ----------------------------------------------
-`inc`         | All header files
-`src`         | Main source code for calculator
-`test`        | All source code and data for testing purposes
+`Inc`         | All header files
+`Src`         | Main source code for calculator
+`Test`        | All source code and data for testing purposes
 
 
 
