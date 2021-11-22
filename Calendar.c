@@ -17,8 +17,8 @@ typedef enum {
 typedef enum {
     January = 1,
     February,
-    Match,
-    Apirl,
+    March,
+    April,
     May,
     June,
     July,
@@ -91,8 +91,8 @@ void printYear(const int y)
     int monLen  [13];
 
     monLen[0]=0;
-    monLen[January]=31;     monLen[February]=28+vDay;   monLen[Match]=31;
-    monLen[Apirl]=30;       monLen[May]=31;             monLen[June]=30;
+    monLen[January]=31;     monLen[February]=28+vDay;   monLen[March]=31;
+    monLen[April]=30;       monLen[May]=31;             monLen[June]=30;
     monLen[July]=31;        monLen[August]=31;          monLen[September]=30;
     monLen[October]=31;     monLen[November]=30;        monLen[December]=31;
 
@@ -100,7 +100,7 @@ void printYear(const int y)
     monWeeks[January]   = yDay;
     monWeeks[February]  = ((monWeeks[January]       +monLen[January]        )%7);
     monWeeks[Match]     = ((monWeeks[February]      +monLen[February]       )%7);
-    monWeeks[Apirl]     = ((monWeeks[Match]         +monLen[Match]          )%7);
+    monWeeks[April]     = ((monWeeks[Match]         +monLen[March]          )%7);
     monWeeks[May]       = ((monWeeks[Apirl]         +monLen[Apirl]          )%7);
     monWeeks[June]      = ((monWeeks[May]           +monLen[May]            )%7);
     monWeeks[July]      = ((monWeeks[June]          +monLen[June]           )%7);
