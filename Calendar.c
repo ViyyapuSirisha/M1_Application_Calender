@@ -99,9 +99,9 @@ void printYear(const int y)
     monWeeks[0]=0;
     monWeeks[January]   = yDay;
     monWeeks[February]  = ((monWeeks[January]       +monLen[January]        )%7);
-    monWeeks[Match]     = ((monWeeks[February]      +monLen[February]       )%7);
-    monWeeks[April]     = ((monWeeks[Match]         +monLen[March]          )%7);
-    monWeeks[May]       = ((monWeeks[Apirl]         +monLen[Apirl]          )%7);
+    monWeeks[March]     = ((monWeeks[February]      +monLen[February]       )%7);
+    monWeeks[April]     = ((monWeeks[March]         +monLen[March]          )%7);
+    monWeeks[May]       = ((monWeeks[April]         +monLen[Apirl]          )%7);
     monWeeks[June]      = ((monWeeks[May]           +monLen[May]            )%7);
     monWeeks[July]      = ((monWeeks[June]          +monLen[June]           )%7);
     monWeeks[August]    = ((monWeeks[July]          +monLen[July]           )%7);
