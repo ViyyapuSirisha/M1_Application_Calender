@@ -11,7 +11,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 #### 1. cost
 - The schedule determines when work elements are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
 #### 2. Feature
-- **[E-mail integration]** – an electronic mail communication system. This can be tied into the appointment calendar to send reminders and notify the participants of issues arising with scheduled meetings.
+- **[Email integration]** – an electronic mail communication system. This can be tied into the appointment calendar to send reminders and notify the participants of issues arising with scheduled meetings.
 - **[Calendar publishing]** – some calendaring tools allow the user to publish select calendar information on a public link.
 - **[Printing]** – User may print selected schedule. Usually, this feature allows users to select how she wants to have the printout to look (i.e. include comments, subject only, etc.).
 #### 3. Timeline
@@ -84,7 +84,6 @@ High Level Requirements :
 | RSVP tracking and forwarding | Keeping tabs of your events is a key component of time management. But managing who is and isn’t attending can be time consuming. Thankfully most online calendars allow you to track responses and RSVPs. | Future |
 | Multiple time zone support | . As technology continues to advance, and more companies see the benefit of remote workers, expect that figure to increase dramatically.The catch, however, is that with more people working virtually there’s a better chance that you’re working with someone in a different time zone. This way you can plan your event accordingly | Future |
 | Integration with other applications | That means if you want to make life much easier you’ll want a calendar that integrates with your existing tools. If you used a scheduling app like Calendar then it should definitely sync with popular calendars like Google, Outlook Calendar, Office Calendar or Apple Calendar. | Future |
-
 
 Low level Requirements :
 
