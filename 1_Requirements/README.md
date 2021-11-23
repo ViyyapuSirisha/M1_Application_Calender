@@ -8,17 +8,17 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 ### COST AND FEATURES AND TIMELINE :
 ![image](https://d3uigcfkiiww0g.cloudfront.net/wordpress/blog/pics-en/uploads/99-day-study-schedule-usmle-step-1.jpg)
-#### 1. cost
+#### 1.cost
 - The schedule determines when work elements are to be completed, milestones achieved, and when the project should be completed. The budget determines how much each work element should cost, the cost of each level of the work breakdown schedule (WBS), and how much the total project should cost.
-#### 2. Feature
+#### 2.Feature
 - **[Email integration]** – an electronic mail communication system. This can be tied into the appointment calendar to send reminders and notify the participants of issues arising with scheduled meetings.
 - **[Calendar publishing]** – some calendaring tools allow the user to publish select calendar information on a public link.
 - **[Printing]** – User may print selected schedule. Usually, this feature allows users to select how she wants to have the printout to look (i.e. include comments, subject only, etc.).
-#### 3. Timeline
+#### 3.Timeline
 * Started on [17th Nov 2021] and will be submitted on time of [24th Nov 2021].
 
 ### Defining Our System 
-* A Calender is a group of interacting or interrelated elements that act according to a set of rules to form a unified whole. The Gregorian calendar today serves as an international standard for civil use.Although a variety of other calendars are in use today, they are restricted to particular religions or cultures.
+- A Calender is a group of interacting or interrelated elements that act according to a set of rules to form a unified whole. The Gregorian calendar today serves as an international standard for civil use.Although a variety of other calendars are in use today, they are restricted to particular religions or cultures.
 
 ### SWOT ANALYSIS 
 ![image](https://pestleanalysis.com/wp-content/uploads/2014/01/swot-template.jpg)
