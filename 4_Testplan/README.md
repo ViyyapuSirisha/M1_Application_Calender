@@ -10,9 +10,9 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**  | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test** |    
-|-------------|-----------------|------------|-------------|----------------|------------------|
+| **Test ID** | **Description** | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test** |    
+|------|-------------|------------|------------|----------------|------------------|
 | L_01 | User wants to make an amendment to their calendar item. | Amend calender | Amended successfully | Amended successfully | Requirement based |
 | L_02 | User wants to cancel their calendar item.| To cancel the item | Cancelled successfully | Cancelled successfully | Scenario based |
-| L_03 | User wants to share an online video meeting link (e.g. Zoom/WebEx) to their invite. | Sharing online meet link | Shared successfully| Shared successfully | Boundary based |
+| L_03 | User wants to share an online video meeting link(e.g. Zoom/WebEx) to their invite. | Sharing online meet link | Shared successfully| Shared successfully | Boundary based |
 
