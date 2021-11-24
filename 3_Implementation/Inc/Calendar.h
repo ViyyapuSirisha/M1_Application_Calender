@@ -1,3 +1,8 @@
+#ifndef _HEADER_H_
+#define _HEADER_H_
+
+
+
 #include<stdio.h>
 #include<conio.h>
 #include<windows.h>
@@ -235,3 +240,5 @@ char *Getmonth(char month)
 		default:return("ERROR");break;
 	}
 }
+
+#endif
