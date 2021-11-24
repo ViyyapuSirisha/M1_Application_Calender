@@ -118,12 +118,13 @@ Low level Requirements
 # Implementation
 
 ## Implementation Structure
+
 Folder        | Description
 --------------| ----------------------------------------------
 `Inc`         | All header files
 `Src`         | Main source code for calculator
 `Test`        | All source code and data for testing purposes
-`Build`       |  Build output (Not included in Git)
+`Build`       | Build output(Not included in Git)
 
 # TEST PLAN
 
@@ -137,7 +138,7 @@ Folder        | Description
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**  | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test** |    
+| **Test ID** | **Description** | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test** |    
 |-------------|-----------------|------------|-------------|----------------|------------------|
 | L_01 | User wants to make an amendment to their calendar item. | Amend calender | Amended successfully | Amended successfully | Requirement based |
 | L_02 | User wants to cancel their calendar item.| To cancel the item | Cancelled successfully | Cancelled successfully | Scenario based |
