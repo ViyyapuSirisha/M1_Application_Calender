@@ -14,4 +14,4 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Git Inspector](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml)
 
-![Code Quality](https://api.codiga.io/project/29867/score/svg)
+
