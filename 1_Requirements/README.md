@@ -20,7 +20,7 @@ The schedule determines when work elements are to be completed, milestones achie
   
 ## 2.Feature
 
-Email integration : an electronic mail communication system. This can be tied into the appointment calendar to send reminders and notify the participants of issues arising with scheduled meetings.
+E-mail integration : an electronic mail communication system. This can be tied into the appointment calendar to send reminders and notify the participants of issues arising with scheduled meetings.
 
 Calendar publishing : some calendaring tools allow the user to publish select calendar information on a public link.
 
@@ -60,7 +60,7 @@ Expensive.
  
 OPP0RTUNITIES 
  
-     A calendar of funding and research opportunities, internships, calls for papers, fellowships, prizes, and job postings that may be of interest to our students, faculty, and alums.
+A calendar of funding and research opportunities, internships, calls for papers, fellowships, prizes, and job postings that may be of interest to our students, faculty, and alums.
  
 THREATS     
 
