@@ -149,6 +149,8 @@ A "CALENDAR" is a system of organizing days. This is done by giving names to per
 
 Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
 
+[![Windows C/C++ CI](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Windows_c-cpp.yml)
+
 [![CI](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml)
 
 [![Static code Cppcheck](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml)
