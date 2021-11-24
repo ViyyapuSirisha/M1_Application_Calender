@@ -10,7 +10,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Unit_Testing](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Unit_Testing.yml)
 
-[![Linux OS Build](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml)
+[![Linux OS Build](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Build_Linux.yml)
 
 [![Git Inspector](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml)
 
