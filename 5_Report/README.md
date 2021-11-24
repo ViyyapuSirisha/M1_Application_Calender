@@ -152,8 +152,6 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Windows C/C++ CI](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Windows_c-cpp.yml)
 
-[![CI](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml)
-
 [![Static code Cppcheck](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml)
 
 [![Unit_Testing](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Unit_Testing.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Unit_Testing.yml)
