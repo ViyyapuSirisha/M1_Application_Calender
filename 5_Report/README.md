@@ -115,6 +115,16 @@ Low level Requirements
 |Weather is missing | One Google Calendar feature that disappeared in the past few years is weather forecasts. | Implemented |
 | See more with a year view | Google Calendar has a year view. You probably didn't notice they added it, but they did. You can use it. Click the view menu in the top right and select Year to see the entire year at a glance. Dates with events aren't highlighted at all, but you can click on a date to see everything scheduled in a popover. Or double-click a date to open it in Day view. | Implemented |
 
+# Implementation
+
+## Implementation Structure
+Folder        | Description
+--------------| ----------------------------------------------
+`Inc`         | All header files
+`Src`         | Main source code for calculator
+`Test`        | All source code and data for testing purposes
+`Build`       |  Build output (Not included in Git)
+
 
 
 
