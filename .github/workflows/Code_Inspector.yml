@@ -1,51 +1,14 @@
-name: Code Inspector
-
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+name: Code_Inspector
+on: [push]
 
 jobs:
-  inspect:
-
+  build:
+    name: CodeInspector
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: '0'
-    - name: Install python
-      run: sudo apt -y install python
-    - name: Install codeinspector
-      run: | 
-        pushd ~ &> /dev/null
-        git clone --depth=1 https://github.com/ejwa/codeinspector.git
-        cd codeinspector
-        echo "export PATH=$(pwd):"'$PATH' >> ~/.profile
-        popd &> /dev/null
-    - name: Run codeinspector
-      run: |
-        source ~/.profile
-        export PYTHONIOENCODING=utf-8
-        codeinspector.py --version
-        echo "Running for commit : $GITHUB_SHA"
-        echo "============ Code Inspector ==========="
-        codeinspector.py -wTHl --format=text -f c,h,md,yml,* -x file:3_Implementation/unity -x file:doc .
-        codeinspector.py -wTHl --format=html -f c,h,md,yml,* -x file:3_Implementation/unity -x file:doc . > ~/result.html
-        echo "======================================"
-   #If using gihub io pages feature
-   # - name : Update Results to gh-pages
-   #   uses: actions/checkout@v2
-   #   with:
-   #     ref: gh-pages
-   # - name: Update Results to gh-pages
-   #  run: |
-   #     pwd
-   #     rm -f result.html
-   #     mv ~/result.html result.html
-   #     git config user.name "GitHub Actions"
-   #     git config user.email actions@github.com
-   #     git add result.html
-   #     git commit -m "[auto] Update Results for commit SHA $GITHUB_SHA"
-   #     git push
+      - uses: actions/checkout@v2
+        
+      - name: Install CodeInspector
+        run: sudo apt-get -y install CodeInspector
+      - name: CodeInspector code
+        run: CodeInspector 3_Implementation
