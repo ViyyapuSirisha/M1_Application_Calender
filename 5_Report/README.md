@@ -140,9 +140,9 @@ TEST PLAN
 
 | **Test ID** | **Description** | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test** |    
 |-------------|-----------------|------------|-------------|----------------|------------------|
-| L_01 | User wants to make an amendment to their calendar item. | Amend calender | Amended successfully | Amended successfully | Requirement based |
+| L_01 | User wants to make an amendment to their calendar item.| Amend calender | Amended successfully | Amended successfully | Requirement based |
 | L_02 | User wants to cancel their calendar item.| To cancel the item | Cancelled successfully | Cancelled successfully | Scenario based |
-| L_03 | User wants to share an online video meeting link (e.g. Zoom/WebEx) to their invite. | Sharing online meet link | Shared successfully| Shared successfully | Boundary based |
+| L_03 | User wants to share an online video meeting link to their invite.| Sharing online meet link | Shared successfully| Shared successfully | Boundary based |
 
 M1_Application_Calender
 
@@ -162,8 +162,8 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Git Inspector](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml)
 
-# CONCLUSION
+CONCLUSION
 
-A Calendar is very useful in our day to day life. we can add/notes events to remember that specific days like birthday's, Anniversaries, meetings, etc. We can get our past, present and future calendars with festivals .
+A Calendar is very useful in our day to day life. we can add/notes events to remember that specific days like birthday's, Anniversaries, meetings, etc. We can get our past, present and future calendars with festivals.
 
 
