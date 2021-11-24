@@ -16,8 +16,8 @@ src/Calendar.c
 
 # All test source files
 TEST_SRC = src/Calendar.c\
-test/test_Calendar.c\
-unity/unity.c\
+Test/Test_Calendar.c\
+Unity/Unity.c\
 
 
 
@@ -27,7 +27,7 @@ TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
 INC = -Iinc\
--Iunity\
+-IUnity\
 
 
 
