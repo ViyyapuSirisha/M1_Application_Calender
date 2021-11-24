@@ -4,5 +4,5 @@ Structure diagrams are a visual design technique used to show the steps needed t
 
 When reading a structure diagram start at the top and work towards the bottom. 
 
-If a level contains more than one branch, read from left to right before moving to the next level.
+If a level contains more than one branch,read from left to right before moving to the next level.
 
