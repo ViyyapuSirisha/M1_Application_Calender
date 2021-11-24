@@ -115,7 +115,7 @@ Low level Requirements
 |Weather is missing | One Google Calendar feature that disappeared in the past few years is weather forecasts. | Implemented |
 | See more with a year view | Google Calendar has a year view. You probably didn't notice they added it, but they did. You can use it. Click the view menu in the top right and select Year to see the entire year at a glance. Dates with events aren't highlighted at all, but you can click on a date to see everything scheduled in a popover. Or double-click a date to open it in Day view. | Implemented |
 
-# Implementation
+Implementation
 
 ## Implementation Structure
 
@@ -126,7 +126,7 @@ Folder        | Description
 `Test`        | All source code and data for testing purposes
 `Build`       | Build output(Not included in Git)
 
-# TEST PLAN
+TEST PLAN
 
 ## Table no: High level test plan
 
@@ -144,7 +144,7 @@ Folder        | Description
 | L_02 | User wants to cancel their calendar item.| To cancel the item | Cancelled successfully | Cancelled successfully | Scenario based |
 | L_03 | User wants to share an online video meeting link (e.g. Zoom/WebEx) to their invite. | Sharing online meet link | Shared successfully| Shared successfully | Boundary based |
 
-# M1_Application_Calender
+M1_Application_Calender
 
 A "CALENDAR" is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar is also a physical record of such a system. A calendar is to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
 
@@ -162,7 +162,7 @@ Calendars play an important role in our daily work to help us stay on task as we
 
 [![Git Inspector](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/Git_Inspector.yml)
 
-# CONCLUSION
+CONCLUSION
 
 A Calendar is very useful in our day to day life. we can add/notes events to remember that specific days like birthday's, Anniversaries, meetings, etc. We can get our past, present and future calendars with festivals .
 
