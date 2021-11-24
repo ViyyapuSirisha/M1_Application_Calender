@@ -1,5 +1,9 @@
 # M1_Application_Calender
 
+A "CALENDAR" is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. A calendar is also a physical record of such a system. A calendar is to be informed about or to agree on a future event and to record an event that has happened. Days may be significant for agricultural, civil, religious, or social reasons.
+
+Calendars play an important role in our daily work to help us stay on task as well as be productive and prioritize. By using them to schedule our daily work we can avoid distractions and get back on track when interrupted.
+
 [![CI](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/build_linux.yml)
 
 [![Static code Cppcheck](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ViyyapuSirisha/M1_Application_Calender/actions/workflows/cppcheck.yml)
